@@ -1,4 +1,4 @@
-module github.com/klauspost/reedsolomon/_gen
+module github.com/icpp2022hdpsr/reedsolomon/_gen
 
 go 1.16
 
